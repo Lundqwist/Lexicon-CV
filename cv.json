@@ -2,7 +2,7 @@
   "basics": {
     "name": "Bjarne Lundqwist",
     "title": "Gymnasielärare inom programmering, digitalt skapande och spelutveckling",
-    "photo": "assets/photo.jpg",
+    "photo": "assets/profil.jpg",
     "address": ["Gustavsbergsgatan 6B", "571 33 Nässjö"],
     "phone": "0705 - 17 97 72",
     "email": "bjarne@lundqwist.se"
