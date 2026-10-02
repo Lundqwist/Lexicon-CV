@@ -1,0 +1,264 @@
+{
+  "basics": {
+    "name": "Bjarne Lundqwist",
+    "title": "Gymnasielärare inom programmering, digitalt skapande och spelutveckling",
+    "photo": "assets/photo.jpg",
+    "address": ["Gustavsbergsgatan 6B", "571 33 Nässjö"],
+    "phone": "0705 - 17 97 72",
+    "email": "bjarne@lundqwist.se"
+  },
+  "work": [
+    {
+      "role": "Lärare",
+      "organization": "LBS Kreativa Gymnasiet",
+      "location": "Växjö",
+      "from": "2022-08",
+      "to": "2024-06",
+      "courses": ["Programmering 1-2", "Digitalt Skapande 1-2", "Animation 1-2"],
+      "extraCourses": ["Matematik 1c - 2c", "Fysik 1-2", "Animation"],
+      "highlights": ["Nominerad och inbjuden till Galan för årets bästa lärare (i Sverige) 2022."]
+    },
+    {
+      "role": "Lärare",
+      "organization": "NTI Gymnasiet",
+      "location": "Luleå",
+      "from": "2021-01",
+      "to": "2022-06",
+      "description": "Ansvarig för Te4 (Gymnasieingenjörsprogrammet).",
+      "courses": ["Programmering 1-2", "Tillämpad programmering", "Webbserver Programmering", "Webbutveckling 1"],
+      "highlights": ["Utvecklat och genomfört Te4 (påbyggnadsutbildning till Teknikprogrammet): mjukvaruutvecklingsutbildning med inriktning datorspel."]
+    },
+    {
+      "role": "Lärare",
+      "organization": "LBS Kreativa Gymnasiet",
+      "location": "Helsingborg",
+      "from": "2016-08",
+      "to": "2020-06",
+      "courses": ["Programmering 1-2", "Cad 1", "Digitalt Skapande 1-2", "Animation 1-2", "Fysik 1-2", "Gymnasiearbete"],
+      "extraCourses": ["Programmering 1-2", "Matematik 1B, 3C", "Fysik 1", "Historia", "Kemi 1"],
+      "highlights": [
+        "Elever vann priser i spelutveckling två år i rad. Bästa teamet vann LBS Game Awards i 2D grafik samt vann i Swedish Game Awards.",
+        "Nominerad till årets bästa lärare (i Sverige) 2019."
+      ]
+    },
+    {
+      "role": "Lärare",
+      "organization": "Erikdahlbergs Gymnasiet",
+      "location": "Jönköping",
+      "from": "2016-02",
+      "to": "2016-06",
+      "courses": ["Webbutveckling 1-2", "Webbserverprogrammering 1", "Datorteknik 1a", "Programmering 1"],
+      "extraCourses": ["Programmering"],
+      "highlights": ["Byggt upp och planerat T4-utbildningen inför 2016-2017 samt marknadsfört den så att utbildningen fylldes med studenter."]
+    },
+    {
+      "role": "Lärare",
+      "organization": "Ädelfors Folkhögskola",
+      "location": "Vetlanda",
+      "from": "2014-06",
+      "to": "2016-02",
+      "description": "Program: Spelprogrammering. Ansvarig för planering och utförande av programmering för spelutveckling.",
+      "note": "Samtliga deltagare på utbildningen hade någon form av NPF (neuropsykologisk funktionsnedsättning)."
+    },
+    {
+      "role": "Vice ordförande",
+      "organization": "Gotlands studentkår Rindi",
+      "location": "Visby",
+      "from": "2012-06",
+      "to": "2013-06",
+      "description": "Ansvarig för kårhuset, IT, utskott, föreningar och ämnesföreningar på studentkåren. Ansvarig för uthyrning av lokaler för publika event såsom Almedalsveckan.",
+      "highlights": ["Arrangör två år i rad för ett av Sveriges största event för studenter, med ca 650 deltagare (Absolut Gotland)."]
+    },
+    {
+      "role": "Nätdriftsingenjör",
+      "organization": "Skanova - Telia Sonera",
+      "location": "Jönköping",
+      "from": "2011-06",
+      "to": "2011-08",
+      "employmentType": "Sommarvikariat"
+    },
+    {
+      "role": "Nätdriftsingenjör",
+      "organization": "Skanova - Telia Sonera",
+      "location": "Jönköping",
+      "from": "2010-06",
+      "to": "2010-08",
+      "employmentType": "Sommarvikariat"
+    },
+    {
+      "role": "Säljare",
+      "organization": "Atlas Telemarketing",
+      "location": "Maspalomas, Gran Canaria, Spanien",
+      "from": "2009-11",
+      "to": "2010-02"
+    },
+    {
+      "role": "Nätdriftsingenjör",
+      "organization": "Skanova - Telia Sonera",
+      "location": "Jönköping",
+      "from": "2007-03",
+      "to": "2008-12",
+      "employmentType": "Vikariat",
+      "description": "Övervakning, felsökning och åtgärdande av problem med Sveriges internetförbindelser via koppar och fiber. Jobbet utfördes ofta ensamt på helger och nätter, med ansvar för kommunikation med kunder från hela världen.",
+      "note": "Säkerhetsklassad för speciell nätsäkerhet SNS (militär, polis...)."
+    },
+    {
+      "role": "Valförrättare/Rösträknare",
+      "organization": "Jönköpings kommun",
+      "dates": ["2002-09-15", "2003-09-14", "2004-09-13"]
+    },
+    {
+      "role": "Lärare",
+      "organization": "Nässjö kommun (Brinellgymnasiet)",
+      "location": "Nässjö",
+      "from": "2002-08",
+      "to": "2003-06",
+      "courses": ["Datorkommunikation", "Nätverk A+B"]
+    },
+    {
+      "role": "IT-admin/IT-samordnare",
+      "organization": "Louis Gibeck AB",
+      "location": "Stockholm",
+      "from": "1997-11",
+      "to": "1999-04",
+      "description": "Ansvarat för drift av koncernens nätverk, mailsystem och persondatorer. Personalutbildare samt ansvarig för inköp av datautrustning."
+    },
+    {
+      "role": "Manager / Säljande konsult / Tekniker",
+      "organization": "Skymar Datacenter AB",
+      "location": "Jönköping",
+      "from": "1995-10",
+      "to": "1997-08",
+      "description": "Försäljning, service, reparationer, installation av datorer och nätverk. Började som tekniker och avslutade som manager och säljande konsult."
+    },
+    {
+      "role": "Optikerassistent",
+      "organization": "Direkt Optik",
+      "location": "Jönköping",
+      "from": "1995-06",
+      "to": "1995-09",
+      "employmentType": "Vikariat",
+      "description": "Assisterade optikern med försäljning, konsultation och utlämnande av glasögon i butik."
+    },
+    {
+      "role": "Gruppbefäl; Militärtjänst",
+      "organization": "IB12",
+      "location": "Eksjö",
+      "from": "1994-07",
+      "to": "1995-05",
+      "description": "Mönstrade som gruppbefäl, utbildad i ledarskap och gruppdynamik."
+    },
+    {
+      "role": "ADB",
+      "organization": "Landstinget, April-projektet",
+      "location": "Jönköping",
+      "from": "1992",
+      "to": "1994",
+      "description": "Inmatning av enkäter till databaser som sedan användes som stöd i APRIL-projektet. Extra hos IT-avdelningen med klientsupport på länssjukhuset samt programmering i Pascal för att hantera utskrifter med streckkoder för patientjournaler."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Arena Utbildning",
+      "program": "Kockutbildning",
+      "from": "2025-12",
+      "to": "2026-04",
+      "courses": ["Service och bemötande", "Livsmedelshygien", "Matlagning 1"]
+    },
+    {
+      "institution": "Jönköpings Universitet",
+      "program": "Gymnasielärare inriktning Religion",
+      "from": "2025-08",
+      "to": "2025-11"
+    },
+    {
+      "institution": "Uppsala Universitet - Campus Gotland",
+      "program": "Speldesign - Programmering",
+      "from": "2010-08",
+      "to": "2013-06",
+      "roles": ["Utbildnings- och forskningsnämnden", "Utbildningskommittén", "Elevassistent"]
+    },
+    {
+      "institution": "Jönköping University",
+      "program": "Data/IT Systemutveckling",
+      "from": "2003-08",
+      "to": "2006-06",
+      "roles": ["Branschrådet"]
+    },
+    {
+      "institution": "Jönköping University",
+      "program": "Husbyggnadsingenjör, Engelska 30hp",
+      "from": "2001-08",
+      "to": "2002-06",
+      "roles": ["Ordförande Norrlands Nation", "Ordförande Qult (studentförening)"]
+    },
+    {
+      "institution": "Jönköping University",
+      "program": "Tekniskt basår",
+      "from": "2000-08",
+      "to": "2001-06"
+    },
+    {
+      "institution": "Komvux",
+      "program": "Högskolebehörighet",
+      "from": "1999-08",
+      "to": "2000-06"
+    },
+    {
+      "institution": "Erikdahlbergs gymnasiet",
+      "program": "Teknisk linje - inriktning Kemi",
+      "from": "1990-08",
+      "to": "1994-06"
+    }
+  ],
+  "courses": [
+    {
+      "title": "Båtförarutbildning (Yachtmaster diploma)",
+      "from": "2024-06",
+      "to": "2025-08",
+      "note": "Diplom 2024-06"
+    },
+    {
+      "title": "Psykologi 30hp",
+      "provider": "Jönköping University",
+      "from": "2013-08",
+      "to": "2014-01"
+    },
+    {
+      "title": "MC-körkort A (tung motorcykel)",
+      "from": "2009-01",
+      "to": "2009-11"
+    },
+    {
+      "title": "Mindmapping och support",
+      "from": "2006-06",
+      "to": "2007-03"
+    },
+    {
+      "title": "PYRO - Specialkurs handhavande bomber 4”-8”",
+      "date": "1999-10-16"
+    },
+    {
+      "title": "SCALA - Systemunderhåll",
+      "date": "1998-12-10"
+    },
+    {
+      "title": "Administering MS Exchange Server 5.5",
+      "from": "1998-02-24",
+      "to": "1998-02-26"
+    },
+    {
+      "title": "AutoCAD Release 13, 14",
+      "provider": "Autodesk Authorized dealer",
+      "date": "1997"
+    },
+    {
+      "title": "GARP - Order, lager, fakturering, kundreskontra, leverantörsreskontra och redovisning",
+      "date": "1996-02-07"
+    },
+    {
+      "title": "PADI - Open Water Diver (scubadykning)",
+      "date": "1994-11-13"
+    }
+  ]
+}
